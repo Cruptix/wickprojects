@@ -1,10 +1,9 @@
-Here are all of my projects on Wick Editor. 
-
-Instructions on loading the project:
-1. Download a .wick file of your choice.
-2. go to wickeditor.com/editor/
-3. Click "Open" on the top right corner. 
-4. Select the downloaded .wick file.
-5. Click the green play button on the bottom right corner to start the project.
-6. Instructions on how to play will be on the left hand side.
-7. Enjoy the game! Feel free to make changes and tweak the game yourself.
+**Instructions on opening a project**:
+1. Click on a .wick file.
+2. Click the "Download" button.
+3. go to wickeditor.com/editor/
+4. Click "Open" on the top right corner. 
+5. Select the downloaded .wick file.
+6. Click the green play button on the bottom right corner to start the project.
+7. Instructions on how to play will be on the left hand side.
+8. Enjoy the game! Feel free to make changes and tweak the game yourself.
